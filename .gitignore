@@ -2,3 +2,7 @@
 logs/
 # ignore any txt-files by mask
 docs/*.txt
+node_modules/
+.idea/
+.vscode/
+.DS_Store
